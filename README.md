@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Emiliano Garcia Ochoa
+# 👋 Hi, I’m Emiliano Garcia
 
 🎓 **Master’s Student, Applied Computing** | 🧠 **Machine Learning Researcher** | 🛠️ **Applied ML & AI Engineer**  
 📍 Waterloo, ON, Canada | 📫 emiliano.gar.och@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/emiliano-garcia-ochoa)
