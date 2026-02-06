@@ -15,6 +15,19 @@ I’m especially interested in applied ML roles where thoughtful experimentation
 
 ---
 
+## 🚀 Featured Projects
+
+- **RAG Benchmark Service**  
+  Benchmark-driven retrieval system for scientific question answering, built with an evaluation-first workflow (SciFact / BEIR), dual retrieval baselines (BM25 + dense/FAISS), and a production FastAPI service with citation enforcement, monitoring, drift detection, and quality gates.
+
+- **PocketGuide**  
+  Domain-adapted language model for structured travel guidance. Built with contracts-first evaluation (fixed prompt suite + objective metrics), synthetic instruction tuning with quality gating, LoRA fine-tuning on Llama-2-7B, and GGUF quantization for offline inference.
+
+- **Personal Portfolio Website**  
+  Statically-generated portfolio site built with Next.js App Router + MDX content. Focused on fast load times, content-first workflows, and clean UX patterns (tag system, theming via CSS custom properties, and reusable components).
+
+---
+
 ## 🔍 Areas of Focus
 
 - 🧠 Machine Learning & Deep Learning (PyTorch-first)
@@ -28,22 +41,22 @@ I’m especially interested in applied ML roles where thoughtful experimentation
 
 ## 💼 Experience
 
-### 🏢 **Software Developer Intern – Autodesk Research** (Toronto, ON)  
+### 🏢 **Software Developer Intern - Autodesk Research** (Toronto, ON)  
 Designed and implemented an ML-driven generative design tool to optimize architectural space scheduling and utilization. Built data processing pipelines and optimization models that achieved approximately **60% reduction in walking distance** across evaluated scenarios. Worked closely with researchers and senior stakeholders, translating research ideas into a practical, high-impact tool.
 
 ---
 
-### 🔬 **Graduate Research Assistant – Wilfrid Laurier University** (Waterloo, ON)  
+### 🔬 **Graduate Research Assistant - Wilfrid Laurier University** (Waterloo, ON)  
 Conducting master’s research focused on **multi-modal deep learning** for cognitive health assessment, involving systematic experimentation, training and evaluation pipelines, hyperparameter optimization, and ablation studies. Work emphasizes reproducibility, empirical analysis, and robust evaluation.
 
 ---
 
-### 🔬 **Undergraduate Research Assistant – TRU Engineering**  
+### 🔬 **Undergraduate Research Assistant - TRU Engineering**  
 Contributed to research exploring cognitive patterns related to Alzheimer’s disease using speech-based features and deep learning models. Developed data pipelines and ML workflows supporting experimentation and evaluation; research under peer review.
 
 ---
 
-### 🧮 **Software Analyst Intern – TRU Enterprise Systems**  
+### 🧮 **Software Analyst Intern - TRU Enterprise Systems**  
 Automated reporting and data workflows across Oracle-based enterprise systems using tools such as FormFusion and Argos, improving efficiency and reliability of internal reporting pipelines.
 
 ---
@@ -63,5 +76,6 @@ Automated reporting and data workflows across Oracle-based enterprise systems us
 
 I’m always happy to connect with others interested in **applied machine learning**, **AI research**, or **early-stage product development**.
 
+🌐 https://emilianogarcia.ca  
 🌐 [LinkedIn](https://www.linkedin.com/in/emiliano-garcia-ochoa)  
 📧 emiliano.gar.och@gmail.com
